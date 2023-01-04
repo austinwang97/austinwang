@@ -2,7 +2,7 @@ title: Austin's Blog
 author: Austin Wang
   name: austin wang
   email: austinwang00@gmail.com
-description: > # this means to ignore newlines until "show_excerpts:"
+description:  # this means to ignore newlines until "show_excerpts:"
   Hello testing testing 
 show_excerpts: false # set to true to show excerpts on the homepage
 
